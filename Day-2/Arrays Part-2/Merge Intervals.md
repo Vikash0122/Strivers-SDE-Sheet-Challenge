@@ -6,7 +6,7 @@ Problem Link:- [Code Studio](https://www.codingninjas.com/codestudio/problems/me
 // SC:- O(N)
 vector<vector<int>> mergeIntervals(vector<vector<int>> &arr)
 {
-    // Write your code here.
+    
     int n = arr.size(); // size of the array
 
     //sort the given intervals:
