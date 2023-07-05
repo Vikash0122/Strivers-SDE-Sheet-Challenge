@@ -1,0 +1,5 @@
+# K-th Permutation Sequence
+
+~~~
+
+~~~
